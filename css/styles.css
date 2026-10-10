@@ -3,7 +3,8 @@ body {
     background-color: white;
 }
 
-h1 {
+h1,
+h2 {
     color: #1602cc;
     font-family: serif;
 }
@@ -17,4 +18,10 @@ h1 {
     border: 3px solid black;
     border-radius: 8px;
     background-color: white;
+}
+
+figure img {
+    max-height: 250px;
+    width: 100%;
+    object-fit: cover;
 }
