@@ -1,17 +1,20 @@
 body {
     font-family: serif;
-    background-color: white;
+    background-color: rgb(241, 218, 190);
 }
 
 h1,
 h2 {
     color: #1602cc;
-    font-family: serif;
+}
+
+h5 {
+    color: rgb(229, 110, 233);
+    font-weight: bold;
 }
 
 .nav-link {
     color: black;
-    font-family: serif;
 }
 
 .custom-box {
